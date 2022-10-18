@@ -5,3 +5,4 @@
 ![Jira2](https://user-images.githubusercontent.com/115627675/196433751-7bd044cd-56d5-49db-af80-134442996c5e.png)
 ![Jira3](https://user-images.githubusercontent.com/115627675/196433832-6de1813b-0e31-45f9-bb70-e591cd57a307.png)
 ![Jira3](https://user-images.githubusercontent.com/115627675/196433889-9b717125-178e-4930-b3a9-79981c7fc329.png)
+![image](https://user-images.githubusercontent.com/115627675/196434249-c16819ae-dbfd-400d-ad50-1e6194e1ac1a.png)
